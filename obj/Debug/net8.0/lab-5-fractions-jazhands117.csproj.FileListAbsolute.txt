@@ -1,0 +1,5 @@
+C:\Users\Jasmine Johnson\my-code-dir\lab-5-fractions-jazhands117\obj\Debug\net8.0\lab-5-fractions-jazhands117.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasmine Johnson\my-code-dir\lab-5-fractions-jazhands117\obj\Debug\net8.0\lab-5-fractions-jazhands117.AssemblyInfoInputs.cache
+C:\Users\Jasmine Johnson\my-code-dir\lab-5-fractions-jazhands117\obj\Debug\net8.0\lab-5-fractions-jazhands117.AssemblyInfo.cs
+C:\Users\Jasmine Johnson\my-code-dir\lab-5-fractions-jazhands117\obj\Debug\net8.0\lab-5-fractions-jazhands117.csproj.CoreCompileInputs.cache
+C:\Users\Jasmine Johnson\my-code-dir\lab-5-fractions-jazhands117\obj\Debug\net8.0\lab-5-fractions-jazhands117.sourcelink.json
